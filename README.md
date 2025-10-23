@@ -377,9 +377,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Docker Go SDK](https://github.com/docker/docker) - Docker API client
 - [Chart.js](https://www.chartjs.org/) - Data visualization
 
-## 📧 Contact
+From RayanPinto
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+
 
 Project Link: [https://github.com/yourusername/distributed-sql-load-balancer](https://github.com/yourusername/distributed-sql-load-balancer)
 
