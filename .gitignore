@@ -1,0 +1,128 @@
+# Binaries and Executables
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+simplelb/lb
+simplelb/simplelb
+simplelb/simplelb.exe
+simplelb/simplelb-*.exe
+simplelb/*.exe
+
+# Go build artifacts
+*.test
+*.out
+go.work
+
+# Dependency directories
+vendor/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Python virtual environment (if any)
+venv/
+env/
+*.pyc
+__pycache__/
+
+# Node modules (if any)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Docker volumes and data
+*.log
+logs/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# OS generated files
+Thumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Documentation that's auto-generated or temporary
+simplelb/DOCKER_TROUBLESHOOTING.md
+simplelb/DOCKER_STARTUP_ISSUES.md
+simplelb/DOCKER_FIXES_SUMMARY.md
+simplelb/FIXES_APPLIED.md
+simplelb/ISSUES_AND_FIXES.md
+simplelb/DOCKER_COMMANDS.md
+simplelb/DOCKER_SETUP.md
+simplelb/COMPLETE_DOCUMENTATION.md
+simplelb/PROJECT_DOCUMENTATION.md
+simplelb/DASHBOARD_INSTRUCTIONS.md
+simplelb/HEALTH_MONITORING.md
+simplelb/TERMINOLOGY_UPDATE.md
+simplelb/UPGRADE_TO_SQL_PARSER.md
+simplelb/SQL_PARSING_ANALYSIS.md
+simplelb/QUICK_REFERENCE.md
+simplelb/TEST_QUERIES.md
+simplelb/PRESENTATION_QUERIES.md
+simplelb/NAVIGATION_GUIDE.txt
+simplelb/PERFORMANCE_CHART_IMPROVEMENTS.txt
+simplelb/UI_CONSISTENCY_FIX.txt
+simplelb/BROWSER_CACHE_FIX.txt
+
+# PowerShell scripts (keep only essential ones)
+simplelb/docker-*.ps1
+simplelb/phase1-quickstart.ps1
+simplelb/presentation-demo.ps1
+simplelb/test-*.ps1
+simplelb/quick-test.ps1
+simplelb/run-local.ps1
+simplelb/start-all.ps1
+
+# Batch files (keep only essential ones)
+simplelb/*.bat
+
+# Test files (keep only essential ones)
+simplelb/test-*.js
+simplelb/final-demo.js
+
+# Git files
+.git/
+.gitattributes
+
+# Build and deployment artifacts
+dist/
+build/
+*.tar.gz
+*.zip
+
+# Coverage reports
+coverage/
+*.cover
+*.coverage
+
+# Database files (if any)
+*.db
+*.sqlite
+*.sqlite3
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Lock files (optional - some prefer to commit these)
+# Uncomment if you don't want to track lock files
+# go.sum
+# package-lock.json
+# yarn.lock
