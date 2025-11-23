@@ -11,7 +11,7 @@ simplelb/simplelb-*.exe
 simplelb/*.exe
 
 # Go build artifacts
-*.test
+
 *.out
 go.work
 
